@@ -1,7 +1,7 @@
 ## 가천대학교 종합프로젝트
-YOLO모델을 이용한 식재료 분석 및 레시피 정보제공 웹 서비스
+😋YOLO모델을 이용한 식재료 분석 및 레시피 정보제공 웹 서비스
 
-[노션 바로가기](https://www.notion.so/a5bdb125d48b4be48bcd42ad6c2ed404)
+⏩[노션 바로가기](https://www.notion.so/a5bdb125d48b4be48bcd42ad6c2ed404)
 
 <!--
 
